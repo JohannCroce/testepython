@@ -1,5 +1,4 @@
 import json
-from sqlite3 import SQLITE_UPDATE
 import time
 import requests
 
